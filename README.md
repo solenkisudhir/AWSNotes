@@ -1,4 +1,4 @@
-# AWS in bullet points
+# AWS Cloud in bullet points
 
 [![Quality checks status](https://github.com/undergroundwires/AWS-in-bullet-points/workflows/Quality%20checks/badge.svg)](https://github.com/undergroundwires/AWS-in-bullet-points/actions)
 [![GitHub sponsors](https://undergroundwires.dev/img/badges/donate/flat.svg)](https://undergroundwires.dev/donate?project=AWS-in-bullet-points)
